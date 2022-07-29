@@ -1,0 +1,22 @@
+.body_background 
+{
+    background-position: center;
+    background-size:contain;
+	background:black;
+}
+#myCanvas
+{
+	border-color: cornflowerblue;
+    border-width:10px;
+    border-style:ridge;
+	background-color:black;
+}
+
+
+#hd3{
+	display: inline-block;
+	color:navy;
+	background-color: lightcoral;
+	font-family: fantasy;
+}
+
